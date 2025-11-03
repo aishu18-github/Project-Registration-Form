@@ -8,6 +8,13 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
+<p align="center">
+  <a href="https://project-registration-form.onrender.com">
+    <img src="https://img.shields.io/badge/Live%20on%20Render-000000?style=for-the-badge&logo=render&logoColor=46E3B7" alt="Live on Render">
+  </a>
+</p>
+
+
 A responsive and elegant **web-based registration portal** designed to streamline research project registrations.  
 Built using **HTML, CSS, JavaScript, jQuery, and PHP**, it offers a simple yet interactive user experience.
 
