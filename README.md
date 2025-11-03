@@ -1,4 +1,4 @@
-<h1 align="center">Research Project Registration Portal</h1>
+<h1 align="center">Research Project Registration Form</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -27,7 +27,7 @@ Built using **HTML, CSS, JavaScript, jQuery, and PHP**, it offers a simple yet i
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/project-registration-portal.git
+git clone https://github.com/aishu18-github/Project-Registration-Form.git
 ```
 
 ### 2️⃣ Navigate to the Project Folder
